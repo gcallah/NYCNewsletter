@@ -1,0 +1,27 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            NYC Department of Records Newsletter Manager
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            NYC Department of Records Newsletter Manager
+        </h1>
+
+        <ul>
+            <li>
+                Project requirements
+            </li>
+
+            <li>
+                Comparison of existing open source products.
+            </li>
+        </ul>
+
+    </body>
+</html>

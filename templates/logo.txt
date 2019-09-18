@@ -1,0 +1,6 @@
+        <div style="text-align:center">
+            <figure class="logo">
+				<img src="https://www1.nyc.gov/assets/records/images/content/header/logo.png">
+            </figure>
+        </div>
+
