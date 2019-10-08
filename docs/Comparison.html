@@ -1,0 +1,175 @@
+<html>
+    <head>
+
+        <title>
+            NYC Department of Records Newsletter Manager
+        </title>
+    </head>
+
+    <body>
+
+        <h1>
+            NYC Department of Records Newsletter Manager
+        </h1>
+
+        <ul>
+            <li>
+                Project requirements
+            </li>
+
+            <li>
+                Comparison of existing open source products.
+                <ol>
+                    <li>
+                        <h4>
+                            Colossus
+                        </h4>
+
+                        <ul>
+                            <li>
+                                <a href="https://github.com/vitorfs/colossus"> Github Repository </a>
+                            </li>
+                        </ul>
+                        <ul>
+                            Pros
+                            <li>
+                                Provide contact list management features (manage multiple contact lists)
+                            </li>
+
+                            <li>
+                                Allow design of emails in application (WYSYWIG Editor)
+                            </li>
+
+                            <li>
+                                Allow upload of HTML template in application - Does not support upload from local file, but you can copy source HTML code anf paste in the given template box.
+                            </li>
+
+                            <li>
+                                Store newsletter statistics - You can see delivery success / failures.
+                            </li>
+
+                            <li>
+                                Permissions for sending, managing contact list, and editing / creating newsletters - There is only one admin account in this system.
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Cons
+                            <li>
+                                Allow emails to be sent out - System has this feature but I haven't successfully sent.
+                            </li>
+
+                            <li>
+                                Ability to provide attachments - Does not support upload attachments.
+                            </li>
+
+                             <li>
+                                Login with NYC.ID - Not support NYC.ID
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <h4>
+                            Listmonk
+                        </h4>
+
+                        <ul>
+                            <li>
+                                <a href="https://github.com/knadh/listmonk"> Github Repository </a>
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Pros
+                            <li>
+                                Allow emails to be sent out - It works on editor's demo, but I can test it on my local system.
+                            </li>
+
+                            <li>
+                                Allow design of emails in application (WYSYWIG Editor)
+                            </li>
+
+                            <li>
+                                Allow upload of HTML template in application - Does not support upload from local file, but you can copy source HTML code anf paste in the given template box.
+                            </li>
+
+                            <li>
+                                Ability to provide attachments - Only pictures support here and there is an attachment button but it doesn't work)
+                            </li>
+                            <li>
+                                Store newsletter statistics - You can see delivery success / failures.
+                            </li>
+
+                            <li>
+                                Permissions for sending, managing contact list, and editing / creating newsletters - Only one admin Account
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Cons
+                             <li>
+                                Login with NYC.ID - Does not support NYC.ID
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <h4>
+                            Mail For Good
+                        </h4>
+
+                        <ul>
+                            <li>
+                                <a href="https://github.com/freeCodeCamp/mail-for-good"> Github Repository </a>
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Pros
+                            <li>
+                                Provide contact list management features (manage multiple contact lists)
+                            </li>
+
+                            <li>
+                                Allow design of emails in application (WYSYWIG Editor)
+                            </li>
+
+                            <li>
+                                Allow upload of HTML template in application - Only support template email in CSV format.
+                            </li>
+
+                            <li>
+                                Ability to provide attachments - Only support uploading one attachment.
+                            </li>
+                            <li>
+                                Store newsletter statistics (delivery success / failures) - Visualization is provided.
+                            </li>
+
+                            <li>
+                                Permissions for sending, managing contact list, and editing / creating newsletters - Only one admin Account to give permissions
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Cons
+                             <li>
+                                Login with NYC.ID - Does not support NYC.ID
+                            </li>
+
+                            <li>
+                                Allow emails to be sent out - System has this feature but I haven't successfully sent.
+                            </li>
+
+                            <li>
+                                Based on Amazon SES, so account is limited by Amazon. - This project uses AWS Simple Email Service to send emails and it costs money to send ($0.10 per 1000 emails) and you have limits on emails. 
+                                <a href="https://docs.aws.amazon.com/ses/latest/DeveloperGuide/sending-email.html"> Details on Amazon SES service </a> 
+                            </li>
+                        </ul>
+                    </li>
+                </ol>
+            </li>
+        </ul>
+
+    </body>
+</html>
