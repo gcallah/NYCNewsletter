@@ -20,6 +20,149 @@
 
             <li>
                 Comparison of existing open source products.
+                <ol>
+                    <li>
+                        <h4>
+                            Colossus
+                        </h4>
+
+                        <ul>
+                            Pros
+                            <li>
+                                Provide contact list management features (manage multiple contact lists)
+                            </li>
+
+                            <li>
+                                Allow design of emails in application (WYSYWIG Editor)
+                            </li>
+
+                            <li>
+                                Allow upload of HTML template in application (Copy & Paste)
+                            </li>
+
+                            <li>
+                                Store newsletter statistics (delivery success / failures)
+                            </li>
+
+                            <li>
+                                Permissions for sending, managing contact list, and editing / creating newsletters - Currently Admin Account
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Cons
+                            <li>
+                                Allow emails to be sent out - System has this feature but I haven't successfully sent.
+                            </li>
+
+                            <li>
+                                Ability to provide attachments (custom or single attachment)
+                            </li>
+
+                             <li>
+                                Login with NYC.ID
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <h4>
+                            Listmonk
+                        </h4>
+
+                        <ul>
+                            <li>
+                                <a href="https://github.com/knadh/listmonk"> Github Repository </a>
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Pros
+                            <li>
+                                Allow emails to be sent out -- I don't know how to test it, but it works on editor's demo.
+                            </li>
+
+                            <li>
+                                Allow design of emails in application (WYSYWIG Editor)
+                            </li>
+
+                            <li>
+                                Allow upload of HTML template in application (Copy & Paste)
+                            </li>
+
+                            <li>
+                                Ability to provide attachments (only pictures support here - there is an attachment button but it doesn't work)
+                            </li>
+                            <li>
+                                Store newsletter statistics (delivery success / failures)
+                            </li>
+
+                            <li>
+                                Permissions for sending, managing contact list, and editing / creating newsletters - Only Admin Account
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Cons
+                             <li>
+                                Login with NYC.ID
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <h4>
+                            Mail For Good
+                        </h4>
+
+                        <ul>
+                            <li>
+                                <a href="https://github.com/freeCodeCamp/mail-for-good"> Github Repository </a>
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Pros
+                            <li>
+                                Provide contact list management features (manage multiple contact lists)
+                            </li>
+
+                            <li>
+                                Allow design of emails in application (WYSYWIG Editor)
+                            </li>
+
+                            <li>
+                                Allow upload of HTML template in application (Copy & Paste)
+                            </li>
+
+                            <li>
+                                Allow emails to be sent out - System has this feature but I haven't successfully sent.
+                            </li>
+
+                            <li>
+                                Ability to provide attachments (custom or single attachment)
+                            </li>
+                            <li>
+                                Store newsletter statistics (delivery success / failures)
+                            </li>
+
+                            <li>
+                                Permissions for sending, managing contact list, and editing / creating newsletters - Currently Admin Account
+                            </li>
+                        </ul>
+
+                        <ul>
+                            Cons
+                             <li>
+                                Login with NYC.ID
+                            </li>
+
+                            <li>
+                                Based on Amazon SES, so account is limited by Amazon.
+                            </li>
+                        </ul>
+                    </li>
+                </ol>
             </li>
         </ul>
 
