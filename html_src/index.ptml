@@ -20,13 +20,13 @@
 
             <li>
                 Comparison of existing open source products.
-                <ol>
+                <ol class="nested">
                     <li>
                         <h4>
                             Colossus
                         </h4>
 
-                        <ul>
+                        <ul class="nested">
                             Pros
                             <li>
                                 Provide contact list management features (manage multiple contact lists)
@@ -37,7 +37,8 @@
                             </li>
 
                             <li>
-                                Allow upload of HTML template in application (Copy & Paste)
+                                Allow upload of HTML template in application
+                                (Copy &amp; Paste)
                             </li>
 
                             <li>
@@ -45,7 +46,8 @@
                             </li>
 
                             <li>
-                                Permissions for sending, managing contact list, and editing / creating newsletters - Currently Admin Account
+                                Permissions for sending, managing contact list, and 
+                                editing / creating newsletters - Currently Admin Account
                             </li>
                         </ul>
 
@@ -56,7 +58,7 @@
                             </li>
 
                             <li>
-                                Ability to provide attachments (custom or single attachment)
+                                No ability to provide attachments (custom or single attachment)
                             </li>
 
                              <li>
@@ -87,18 +89,21 @@
                             </li>
 
                             <li>
-                                Allow upload of HTML template in application (Copy & Paste)
+                                Allow upload of HTML template in application
+                                (Copy &amp; Paste)
                             </li>
 
                             <li>
-                                Ability to provide attachments (only pictures support here - there is an attachment button but it doesn't work)
+                                Ability to provide attachments (only pictures support here -
+                                there is an attachment button but it doesn't work)
                             </li>
                             <li>
                                 Store newsletter statistics (delivery success / failures)
                             </li>
 
                             <li>
-                                Permissions for sending, managing contact list, and editing / creating newsletters - Only Admin Account
+                                Permissions for sending, managing contact list, and
+                                editing / creating newsletters - Only Admin Account
                             </li>
                         </ul>
 
@@ -132,7 +137,8 @@
                             </li>
 
                             <li>
-                                Allow upload of HTML template in application (Copy & Paste)
+                                Allow upload of HTML template in application
+                                (Copy &amp; Paste)
                             </li>
 
                             <li>
@@ -147,7 +153,8 @@
                             </li>
 
                             <li>
-                                Permissions for sending, managing contact list, and editing / creating newsletters - Currently Admin Account
+                                Permissions for sending, managing contact list,
+                                and editing / creating newsletters - Currently Admin Account
                             </li>
                         </ul>
 
