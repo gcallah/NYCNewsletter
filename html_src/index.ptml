@@ -15,16 +15,19 @@
 
         <ul>
             <li>
-                Project requirements
+                <a href="docs/Requirements.pdf">Project requirements</a>
+            </li>
+
+            <li>
+                <a href="colossus.pythonanywhere.com">MVP Colossus Server</a> 
             </li>
 
             <li>
                 Comparison of existing open source products.
                 <ol class="nested">
                     <li>
-                        <h4>
                             Colossus
-                        </h4>
+                            <br />
 
                         <ul class="nested">
                             Pros
@@ -68,9 +71,8 @@
                     </li>
 
                     <li>
-                        <h4>
                             Listmonk
-                        </h4>
+                            <br />
 
                         <ul>
                             <li>
@@ -116,9 +118,8 @@
                     </li>
 
                     <li>
-                        <h4>
                             Mail For Good
-                        </h4>
+                            <br />
 
                         <ul>
                             <li>
